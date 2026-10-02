@@ -1,123 +1,187 @@
-Hey, I’m Shuhaib Ap 👋
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:010302,50:003D2B,100:0B5C45&text=SHUHAIB%20AP&fontColor=F6F8F7&fontSize=55&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20PERFORMANCE%20MARKETER%20%E2%80%A2%20ISLAMIC%20TEACHER&descAlignY=62&descSize=14&animation=fadeIn"/>
 
-Full Stack Developer · Performance Marketer · Islamic Teacher
+BUILD • AUTOMATE • CREATE • GROW
 
-Building digital experiences that are fast, functional, and meaningful.
-
-⸻
-
-◈ About Me
-
-I’m Shuhaib, a developer and digital creator from Kerala, India.
-
-I build modern websites, APIs, automation systems, and digital experiences — combining development, design, and performance marketing to create practical products.
-
-01  Full Stack Development
-02  API & Backend Systems
-03  WhatsApp Automation
-04  Performance Marketing
-05  UI / UX & Creative Design
-06  SEO & Digital Growth
+<a href="https://shuhaibap.com">
+<img src="https://img.shields.io/badge/PORTFOLIO-28BE88?style=for-the-badge&logo=googlechrome&logoColor=010302"/>
+</a>
+<a href="https://github.com/shuhbap">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</a>
+<a href="https://linkedin.com/in/shuhbap">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=shuhbap&label=PROFILE%20VIEWS&color=28BE88&style=flat-square"/>
+</div>
 
 ⸻
 
-◈ What I Build
+<div align="center">
 
-Area	Focus
-WEB	Modern & responsive websites
-API	REST APIs & backend systems
-AUTOMATION	Bots, workflows & integrations
-UI/UX	Clean, premium digital interfaces
-MARKETING	Performance marketing & SEO
-CREATIVE	Graphics, video & digital content
+⚡ TECH STACK
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,mongodb,git,github,vercel&perline=7&theme=dark"/>
+</div>
 
 ⸻
 
-◈ Tech Stack
+<div align="center">
 
-Languages & Core
+◈ WHAT I BUILD
 
-Frameworks & Backend
+</div>
+<table align="center">
+<tr>
+<td align="center" width="25%">
 
-Database & Tools
+🌐
+
+WEB
+
+Modern
+Websites
+
+</td>
+<td align="center" width="25%">
+
+⚡
+
+API
+
+Backend
+Systems
+
+</td>
+<td align="center" width="25%">
+
+🤖
+
+AUTO
+
+Bots &
+Automation
+
+</td>
+<td align="center" width="25%">
+
+📈
+
+GROWTH
+
+Marketing &
+SEO
+
+</td>
+</tr>
+</table>
 
 ⸻
 
-◈ Featured Work
+<div align="center">
 
-⚡ APIs & Automation
+📊 GITHUB ANALYTICS
 
-Building practical APIs and automation systems for real-world applications.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shuhbap&show_icons=true&hide_border=true&bg_color=010302&title_color=28BE88&icon_color=28BE88&text_color=F6F8F7&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuhbap&layout=compact&hide_border=true&bg_color=010302&title_color=28BE88&text_color=F6F8F7&langs_count=8"/>
+</div>
+<br>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=shuhbap&theme=dark&hide_border=true&background=010302&ring=28BE88&fire=28BE88&currStreakLabel=28BE88"/>
+</div>
 
-Focus: REST APIs · Download Systems · WhatsApp Automation · Integrations
+⸻
 
-🌐 Modern Web Experiences
+<div align="center">
 
-Designing responsive websites with a strong focus on performance, UX, and visual quality.
+📈 CONTRIBUTIONS
 
-Focus: Frontend · Backend · UI/UX · Performance
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shuhbap&bg_color=010302&color=F6F8F7&line=28BE88&point=28BE88&area=true&hide_border=true"/>
+</div>
+
+⸻
+
+<div align="center">
+
+🚀 FEATURED PROJECTS
+
+</div>
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+⚡ Developer APIs
+
+API systems for
+modern applications.
+
+Node.js REST API Automation
+
+</td>
+<td width="50%" align="center">
+
+🤖 WhatsApp Automation
+
+Automation systems
+and bot development.
+
+Node.js Baileys MongoDB
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+🌐 Web Experiences
+
+Modern responsive
+digital experiences.
+
+React Next.js UI/UX
+
+</td>
+<td width="50%" align="center">
 
 📈 Digital Growth
 
-Combining technology with digital marketing to build and grow online products.
+Performance marketing
+and SEO systems.
 
-Focus: SEO · Performance Marketing · Social Media · Creative Content
+SEO SMM Marketing
 
-⸻
-
-◈ Currently Building
-
-▸ Developer APIs
-▸ WhatsApp Automation Systems
-▸ Modern Web Projects
-▸ Digital Products
-▸ Performance Marketing Systems
+</td>
+</tr>
+</table>
 
 ⸻
 
-◈ My Approach
+<div align="center">
 
-Think → Build → Test → Improve → Ship
+🛠️ CURRENTLY BUILDING
 
-I believe good software isn’t only about writing code.
+APIs   Automation   Web Apps   Digital Products
 
-It’s about solving the right problem, creating a great experience, and continuously improving the product.
-
-⸻
-
-◈ GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shuhbap&show_icons=true&hide_border=true&theme=transparent&title_color=28BE88&icon_color=28BE88&text_color=BABABA" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuhbap&layout=compact&hide_border=true&theme=transparent&title_color=28BE88&text_color=BABABA" height="170"/>
-</p>
+</div>
 
 ⸻
 
-◈ Contribution Graph
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuhbap&bg_color=010302&color=28BE88&line=28BE88&point=F6F8F7&area=true&hide_border=true"/>
-</p>
+◈ CONNECT
 
-⸻
-
-◈ Let’s Connect
-
-If you’re building something interesting, let’s talk.
-
-Portfolio: shuhaibap.com
-
-GitHub: @shuhbap
-
-LinkedIn: @shuhbap
-
-⸻
-
-<p align="center">
+<a href="https://shuhaibap.com">
+<img src="https://img.shields.io/badge/WEBSITE-28BE88?style=for-the-badge&logo=googlechrome&logoColor=010302"/>
+</a>
+<a href="https://github.com/shuhbap">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</a>
+<a href="https://linkedin.com/in/shuhbap">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
+</a>
 
 BUILD • CREATE • GROW
 
-© 2026 Shuhaib Ap · Built with curiosity & code.
+© 2026 Shuhaib Ap
 
-</p>
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B5C45,50:003D2B,100:010302"/>
