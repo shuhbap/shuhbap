@@ -1,227 +1,69 @@
 <div align="center">
-
-SHUHAIB AP
-
-Full Stack Developer · Performance Marketer · Islamic Teacher
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,50:0B5C45,100:28BE88&text=BUILD.%20AUTOMATE.%20CREATE.&fontColor=FFFFFF&fontSize=32&fontAlignY=38&desc=Technology%20%7C%20Automation%20%7C%20Digital%20Experiences&descAlignY=60&descSize=15" width="100%"/>
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:003D2B,100:28BE88&text=SHUHAIB%20AP&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%20•%20%20AUTOMATION%20%20•%20%20DIGITAL%20GROWTH&descColor=F6F8F7&descAlignY=65&descSize=14"/>
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=28BE88&center=true&vCenter=true&width=650&lines=Building+Digital+Experiences;WhatsApp+Automation+%7C+AI+%7C+APIs;Full+Stack+Development;Technology+Beyond+Limits"/>
 <a href="https://shuhaibap.com">
-<img src="https://img.shields.io/badge/Portfolio-0B5C45?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-28BE88?style=for-the-badge&logoColor=black"/>
 </a>
+&nbsp;
 <a href="https://github.com/shuhbap">
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/shuhbap">
-<img src="https://img.shields.io/badge/LinkedIn-0B5C45?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-003D2B?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=shuhbap&label=PROFILE%20VIEWS&color=0B5C45&style=flat-square" />
 </div>
 
 ⸻
-
-01 — ABOUT
-
-I build digital systems that are designed to work, scale and feel premium.
-
-I’m Shuhaib Ap, a developer and digital creator focused on building modern web experiences, automation systems, WhatsApp bots and performance-driven digital products.
-
-My work sits at the intersection of:
-
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   DEVELOPMENT      AUTOMATION       DIGITAL GROWTH      │
-│                                                          │
-│   Web Apps         WhatsApp Bots     SEO                 │
-│   APIs             AI Systems        Performance         │
-│   UI / UX          Automation        Social Media        │
-│   Backend          Integrations      Creative Content    │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-
-⸻
-
-02 — WHAT I BUILD
-
-<table>
-<tr>
-<td width="50%">
-
-◈ Full Stack
-
-* Modern websites
-* Responsive interfaces
-* REST APIs
-* Backend systems
-* Authentication
-* Database systems
-* Deployment pipelines
-
-</td>
-<td width="50%">
-
-◈ Automation
-
-* WhatsApp automation
-* Multi-device systems
-* AI integrations
-* API integrations
-* Workflow automation
-* Bot ecosystems
-* Custom tools
-
-</td>
-</tr>
-<tr>
-<td>
-
-◈ Digital Growth
-
-* SEO
-* Performance marketing
-* Social media
-* Content strategy
-* Analytics
-* Conversion-focused websites
-
-</td>
-<td>
-
-◈ Creative
-
-* UI / UX
-* Graphic design
-* Motion design
-* Video editing
-* AI-assisted creative workflows
-* Brand systems
-
-</td>
-</tr>
-</table>
-
-⸻
-
-03 — TECH STACK
-
-Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,python,php&perline=6"/>
-</p>
-
-Frameworks & Runtime
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,tailwind&perline=6"/>
-</p>
-
-Databases & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,vercel&perline=6"/>
-</p>
-
-Creative & Marketing
-
-SEO                 ███████████████████░   95%
-Performance Ads     ██████████████████░░   90%
-UI / UX             █████████████████░░░   85%
-Graphic Design      ████████████████░░░░   80%
-Video Editing       ███████████████░░░░░   75%
-Automation          ███████████████████░   95%
-
-⸻
-
-04 — CURRENTLY BUILDING
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-🤖
-
-AFIYA-MD
-
-WhatsApp automation ecosystem
-
-</td>
-<td align="center" width="25%">
-
-⚡
-
-Automation
-
-APIs + intelligent workflows
-
-</td>
-<td align="center" width="25%">
-
-🌐
-
-Web
-
-Premium digital experiences
-
-</td>
-<td align="center" width="25%">
-
-📈
-
-Growth
-
-Performance-driven systems
-
-</td>
-</tr>
-</table>
-
-⸻
-
-05 — FEATURED PROJECT
 
 <div align="center">
 
-AFIYA-MD
+BUILD  •  AUTOMATE  •  SCALE
 
-A modular WhatsApp automation platform
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,python,mongodb,mysql,git,docker,vercel&perline=11"/>
+</div>
+<br>
+<div align="center">
 
-                         AFIYA-MD
-                            │
-          ┌─────────────────┼─────────────────┐
-          │                 │                 │
-       AI SYSTEMS       AUTOMATION        PLUGINS
-          │                 │                 │
-       OpenAI            Groups          Downloaders
-       AI Tools          Messages        Games
-       AI Chat           Workflows       Utilities
-          │                 │                 │
-          └─────────────────┼─────────────────┘
-                            │
-                       WhatsApp
-
-Architecture
-
-Baileys → Node.js → Plugin System → APIs → MongoDB
+⚡ Full Stack	🤖 Automation	🧠 AI Systems	📈 Digital Growth
+Web Apps	WhatsApp Bots	AI APIs	SEO
+APIs	Workflows	AI Tools	Performance
+UI / UX	Integrations	Smart Systems	SMM
 
 </div>
 
 ⸻
 
-06 — GITHUB ANALYTICS
+<div align="center">
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shuhbap&show_icons=true&hide_border=true&bg_color=050505&title_color=28BE88&icon_color=28BE88&text_color=FFFFFF&rank_icon=github" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shuhbap&hide_border=true&background=050505&ring=28BE88&fire=28BE88&currStreakLabel=28BE88&sideLabels=FFFFFF&dates=888888" width="49%"/>
+CURRENTLY BUILDING
+
+<a href="https://github.com/shuhbap">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhbap&repo=AFIYA-MD&theme=dark&hide_border=true&bg_color=050505&title_color=28BE88&icon_color=28BE88&text_color=F6F8F7"/>
+</a>
 </div>
-<br/>
+<br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuhbap&layout=compact&hide_border=true&bg_color=050505&title_color=28BE88&text_color=FFFFFF" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shuhbap&show_icons=true&hide_border=true&bg_color=050505&title_color=28BE88&icon_color=28BE88&text_color=F6F8F7&rank_icon=github" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuhbap&layout=compact&hide_border=true&bg_color=050505&title_color=28BE88&text_color=F6F8F7" width="38%"/>
 </div>
 
 ⸻
 
-07 — CONTRIBUTION GRAPH
+<div align="center">
+
+WHAT I DO
+
+<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-111111?style=flat-square&logo=react&logoColor=28BE88"/>
+<img src="https://img.shields.io/badge/WHATSAPP%20AUTOMATION-111111?style=flat-square&logo=whatsapp&logoColor=28BE88"/>
+<img src="https://img.shields.io/badge/API%20SYSTEMS-111111?style=flat-square&logo=fastapi&logoColor=28BE88"/>
+<img src="https://img.shields.io/badge/AI%20INTEGRATION-111111?style=flat-square&logo=openai&logoColor=28BE88"/>
+<img src="https://img.shields.io/badge/SEO-111111?style=flat-square&logo=google&logoColor=28BE88"/>
+<img src="https://img.shields.io/badge/PERFORMANCE%20MARKETING-111111?style=flat-square&logo=googleads&logoColor=28BE88"/>
+</div>
+
+⸻
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuhbap&bg_color=050505&color=28BE88&line=28BE88&point=FFFFFF&area=true&hide_border=true" width="100%"/>
@@ -229,91 +71,15 @@ Baileys → Node.js → Plugin System → APIs → MongoDB
 
 ⸻
 
-08 — DEVELOPMENT PHILOSOPHY
-
-        ┌───────────────────────────────┐
-        │                               │
-        │       THINK  →  BUILD         │
-        │          ↓          ↓         │
-        │       TEST   →  IMPROVE       │
-        │          ↓          ↓         │
-        │       SHIP   →  SCALE         │
-        │                               │
-        └───────────────────────────────┘
-
-Clean code.
-
-Useful products.
-
-Better experiences.
-
-Continuous improvement.
-
-⸻
-
-09 — EXPERIENCE
-
-01 ── Started exploring technology
-      ↓
-02 ── WhatsApp automation & experimentation
-      ↓
-03 ── Programming & web development
-      ↓
-04 ── Islamic studies & education
-      ↓
-05 ── Digital marketing & SEO
-      ↓
-06 ── Full-stack development
-      ↓
-07 ── Automation + AI systems
-      ↓
-∞  ── Keep building
-
-⸻
-
-10 — SERVICES
-
-Area	Focus
-01	Full Stack Development
-02	Website Development
-03	WhatsApp Bot Development
-04	API & Automation Systems
-05	AI Integrations
-06	UI / UX
-07	SEO
-08	Performance Marketing
-09	Social Media Marketing
-10	Creative & Content
-
-⸻
-
-11 — CONNECT
-
 <div align="center">
 
-Have an idea?
+LET'S BUILD SOMETHING.
 
-Let’s turn it into something real.
-
-<br/>
 <a href="https://shuhaibap.com">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-0B5C45?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SHUHAIBAP.COM-28BE88?style=for-the-badge&logoColor=black"/>
 </a>
-<a href="https://www.linkedin.com/in/shuhbap">
-<img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://github.com/shuhbap">
-<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github"/>
-</a>
-</div>
+<img src="https://komarev.com/ghpvc/?username=shuhbap&label=PROFILE%20VIEWS&color=003D2B&style=flat-square"/>
 
-⸻
-
-<div align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-        SHUHAIB AP  ·  TECHNOLOGY BEYOND LIMITS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Built with curiosity • Driven by technology • Always learning
+Technology Beyond Limits · © Shuhaib Ap
 
 </div>
